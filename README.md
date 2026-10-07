@@ -7,5 +7,3 @@
 - **Make a pull request** if you want to contribute.
 
 ⚡ May your commits be small, your merge conflicts few, and your code ever bug-free.
-
-🐦 **Twitter**: [@binarybeastt](https://twitter.com/binarybeastt)
